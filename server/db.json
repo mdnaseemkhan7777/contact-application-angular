@@ -1,0 +1,62 @@
+{
+  "contacts": [
+    {
+      "id": "tc1",
+      "name": "Naseem",
+      "company": "youtube",
+      "email": "email@gmail.com",
+      "title": "youtuber",
+      "mobile": "123456",
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQw9cnEvZ98kadKb7ZIhW20sXOTNVlEsH1q4Q&usqp=CAU",
+      "groupId": "2"
+    },
+    {
+        "id": "tc2",
+        "name": "ali",
+        "company": "youtube",
+        "email": "email@gmail.com",
+        "title": "youtuber",
+        "mobile": "123456",
+        "photo": "https://img.favpng.com/14/3/22/stock-photography-computer-icons-user-png-favpng-TWgLj8kmcdnekcpWySfpV97h3.jpg",
+        "groupId": "2"
+      },
+      {
+        "id": "tc3",
+        "name": "ghalib",
+        "company": "youtube",
+        "email": "email@gmail.com",
+        "title": "youtuber",
+        "mobile": "123456",
+        "photo": "https://www.seekpng.com/png/full/356-3562377_personal-user.png",
+        "groupId": "2"
+      },
+      {
+        "id": "tc4",
+        "name": "hasssan",
+        "company": "youtube",
+        "email": "email@gmail.com",
+        "title": "youtuber",
+        "mobile": "123456",
+        "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScF8RGTP8Mdp7ascuREjTuN1F9Bripb5IS5w&usqp=CAU",
+        "groupId": "2"
+      }
+  ],
+    "groups":[
+        {
+            "id": "1",
+            "name" : "collegue"
+        },
+        {
+            "id": "2",
+            "name" : "family"
+        },
+        {
+            "id": "3",
+            "name" : "friend"
+        },
+        {
+            "id": "4",
+            "name" : "services"
+        }
+    ]
+}
